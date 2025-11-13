@@ -1,0 +1,51 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+select, input, button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 1em;
+}
+
+button {
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+#results {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.train {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.train:last-child {
+  border-bottom: none;
+}
+
+.train strong {
+  color: #0078d7;
+}
