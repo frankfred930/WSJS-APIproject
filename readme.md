@@ -19,8 +19,8 @@ View on Netlify (https://timely-pasca-560f0b.netlify.app/)
 
 ## Credits
 - [Digitraffic API](https://rata.digitraffic.fi/api)
-- [GitHub Copilot](Recommendations&Fixes)
 - [WebDevSimplified Tutorials](https://www.youtube.com/@WebDevSimplified)
+- [GitHub Copilot] (Recommendations&Fixes)
 
 ## License
 No License (School Project)
