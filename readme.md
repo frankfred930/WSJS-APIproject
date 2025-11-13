@@ -9,7 +9,7 @@ Displays live train timetables and info for selected stations in Finland.
 - Digitraffic Open Data API
 
 ## Live Demo
-View on Netlify (https://your-netlify-link.netlify.app)
+View on Netlify (https://timely-pasca-560f0b.netlify.app/)
 
 ## How It Works
 1. Fetches list of Finnish train stations dynamically.
@@ -21,7 +21,6 @@ View on Netlify (https://your-netlify-link.netlify.app)
 - [Digitraffic API](https://rata.digitraffic.fi/api)
 - [GitHub Copilot](Recommendations&Fixes)
 - [WebDevSimplified Tutorials](https://www.youtube.com/@WebDevSimplified)
-
 
 ## License
 No License (School Project)
